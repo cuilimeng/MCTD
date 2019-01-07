@@ -1,7 +1,7 @@
 ###################################################################
 #                                                                 #
-#    MCTD V1.0                                             #
-#    Limeng Cui (lmcui932-at-163.com)                             #
+#    MCTD V1.0                                                    #
+#    Limeng Cui (lmcui932-at-gmail.com)                           #
 #                                                                 #
 ###################################################################
 
@@ -11,7 +11,14 @@ MCTD is a novel multi-view cross-modality hashing method.
 
 If you use the code, we appreciate it if you cite an appropriate subset of the following papers:
 
-TBA
+@inproceedings{cui2018multi,<br />
+&nbsp;&nbsp;title={Multi-view Collective Tensor Decomposition for Cross-modal Hashing},<br />
+&nbsp;&nbsp;author={Cui, Limeng and Chen, Zhensong and Zhang, Jiawei and He, Lifang and Shi, Yong and Yu, Philip S},<br />
+&nbsp;&nbsp;booktitle={Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval},<br />
+&nbsp;&nbsp;pages={73--81},<br />
+&nbsp;&nbsp;year={2018},<br />
+&nbsp;&nbsp;organization={ACM}<br />
+}
 
 ###################################################################
 
